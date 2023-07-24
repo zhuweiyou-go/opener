@@ -1,4 +1,4 @@
-package openner
+package opener
 
 import (
 	"os/exec"

@@ -1,3 +1,3 @@
-module github.com/zhuweiyou-go/openner
+module github.com/zhuweiyou-go/opener
 
 go 1.20
